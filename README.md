@@ -227,3 +227,4 @@ Code cleanup and formatting - 978
 Fixed typo in documentation - 690
 Fixed critical bug in main module - update 35
 Fixed typo in documentation - build 826
+Fixed memory management issue
