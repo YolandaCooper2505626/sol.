@@ -224,3 +224,4 @@ Code cleanup and formatting - 209
 Added proper error handling - 177
 Updated version number - 55
 Code cleanup and formatting - 978
+Fixed typo in documentation - 690
