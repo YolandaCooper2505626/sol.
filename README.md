@@ -3925,3 +3925,4 @@ Updated styling and themes
 Updated README with new instructions - v9.0.6
 Improved user interface design - v10.8.7
 Refactored code for better maintainability - v4.5.6
+Added detailed comments for clarity
