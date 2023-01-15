@@ -1711,3 +1711,4 @@ Optimized algorithm for better efficiency - 101
 Updated README with new instructions - 809
 Fixed typo in documentation - 101
 Added proper error handling - v10.0.9
+Updated version number
