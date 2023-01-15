@@ -1708,3 +1708,4 @@ Refactored code for better maintainability
 Fixed critical bug in main module - 406
 Fixed memory management issue - 11
 Optimized algorithm for better efficiency - 101
+Updated README with new instructions - 809
