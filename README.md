@@ -1625,3 +1625,4 @@ Updated styling and themes
 Fixed typo in documentation - build 792
 Improved performance optimization
 Added comprehensive test coverage - 73
+Added comprehensive test coverage - v3.9.3
