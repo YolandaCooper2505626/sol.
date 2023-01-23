@@ -1919,3 +1919,4 @@ Updated README with new instructions - build 323
 Code cleanup and formatting - update 7
 Added new feature for better user experience
 Updated README with new instructions - v7.8.2
+Added detailed comments for clarity - update 18
