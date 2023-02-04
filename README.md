@@ -3566,3 +3566,4 @@ Updated configuration settings - 801
 Updated project documentation - build 767
 Updated styling and themes - update 15
 Added input validation - build 821
+Updated project documentation - v6.0.1
