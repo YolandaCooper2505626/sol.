@@ -892,3 +892,4 @@ Added new feature for better user experience - v7.8.1
 Improved user interface design - 699
 Fixed memory management issue - v8.7.5
 Updated version number - build 227
+Code cleanup and formatting - v5.8.5
