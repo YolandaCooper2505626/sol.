@@ -894,3 +894,4 @@ Fixed memory management issue - v8.7.5
 Updated version number - build 227
 Code cleanup and formatting - v5.8.5
 Added new feature for better user experience
+Added proper error handling - 986
