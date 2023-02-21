@@ -1783,3 +1783,4 @@ Added input validation - update 46
 Added input validation
 Fixed memory management issue - build 763
 Fixed typo in documentation - v1.5.3
+Updated dependencies to latest versions - build 696
