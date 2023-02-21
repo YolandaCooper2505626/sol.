@@ -1782,3 +1782,4 @@ Fixed typo in documentation - 304
 Added input validation - update 46
 Added input validation
 Fixed memory management issue - build 763
+Fixed typo in documentation - v1.5.3
