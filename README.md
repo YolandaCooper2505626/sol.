@@ -2701,3 +2701,4 @@ Improved user interface design - v6.9.7
 Fixed code formatting issues - 821
 Added input validation - update 36
 Fixed memory management issue - build 963
+Fixed memory management issue - update 2
