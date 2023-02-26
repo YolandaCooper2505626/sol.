@@ -3011,3 +3011,4 @@ Updated configuration settings - 328
 Updated dependencies to latest versions - build 589
 Fixed typo in documentation - build 538
 Fixed code formatting issues - 853
+Updated README with new instructions - update 27
