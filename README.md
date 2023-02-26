@@ -2493,3 +2493,4 @@ Fixed critical bug in main module - v5.2.8
 Refactored code for better maintainability - update 47
 Updated styling and themes
 Fixed typo in documentation - v3.2.0
+Updated README with new instructions - build 517
