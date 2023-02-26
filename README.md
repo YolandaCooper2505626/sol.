@@ -2488,3 +2488,4 @@ Optimized algorithm for better efficiency - 969
 Updated README with new instructions
 Updated version number - 252
 Added new feature for better user experience - update 34
+Added detailed comments for clarity - update 6
