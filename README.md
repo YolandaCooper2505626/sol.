@@ -2489,3 +2489,4 @@ Updated README with new instructions
 Updated version number - 252
 Added new feature for better user experience - update 34
 Added detailed comments for clarity - update 6
+Fixed critical bug in main module - v5.2.8
