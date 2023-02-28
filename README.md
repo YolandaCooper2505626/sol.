@@ -2338,3 +2338,4 @@ Updated README with new instructions
 Updated README with new instructions - 712
 Updated configuration settings
 Updated dependencies to latest versions
+Fixed typo in documentation - v10.8.3
