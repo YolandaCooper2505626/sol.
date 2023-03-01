@@ -107,3 +107,4 @@ Updated dependencies to latest versions - update 18
 Added comprehensive test coverage
 Code cleanup and formatting - update 39
 Updated README with new instructions - 124
+Added proper error handling - v5.2.7
