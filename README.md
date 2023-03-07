@@ -1797,3 +1797,4 @@ Updated dependencies to latest versions - build 905
 Refactored code for better maintainability - build 211
 Updated version number - 724
 Added proper error handling
+Added detailed comments for clarity - v1.5.5
