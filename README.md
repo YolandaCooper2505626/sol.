@@ -427,3 +427,4 @@ Improved performance optimization - build 760
 Updated version number - update 4
 Added input validation - v6.1.3
 Improved performance optimization - build 338
+Added detailed comments for clarity - build 258
