@@ -622,3 +622,4 @@ Fixed typo in documentation
 Code cleanup and formatting - update 18
 Added proper error handling - update 8
 Fixed code formatting issues - update 42
+Added proper error handling - v1.1.8
