@@ -618,3 +618,4 @@ Updated version number - update 8
 Updated project documentation - v5.1.4
 Fixed critical bug in main module - build 494
 Fixed memory management issue - update 49
+Fixed typo in documentation
