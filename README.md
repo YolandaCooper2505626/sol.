@@ -438,3 +438,4 @@ Added proper error handling - v6.2.6
 Updated dependencies to latest versions - 74
 Improved performance optimization - v9.1.3
 Updated README with new instructions
+Fixed critical bug in main module
