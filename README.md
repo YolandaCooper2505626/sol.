@@ -2164,3 +2164,4 @@ Fixed code formatting issues - 337
 Refactored code for better maintainability - update 9
 Updated styling and themes - build 631
 Fixed typo in documentation - 114
+Fixed memory management issue
