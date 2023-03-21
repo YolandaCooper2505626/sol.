@@ -763,3 +763,4 @@ Code cleanup and formatting
 Fixed memory management issue - v9.4.1
 Updated README with new instructions - build 173
 Fixed code formatting issues - v2.4.4
+Updated version number - update 8
