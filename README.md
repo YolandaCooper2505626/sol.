@@ -3732,3 +3732,4 @@ Added proper error handling - update 14
 Fixed typo in documentation
 Added proper error handling - v10.4.6
 Updated dependencies to latest versions - v5.6.4
+Updated project documentation - update 31
