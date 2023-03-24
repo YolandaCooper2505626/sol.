@@ -3065,3 +3065,4 @@ Fixed memory management issue - update 32
 Added comprehensive test coverage - v10.1.6
 Updated configuration settings
 Updated dependencies to latest versions - build 303
+Fixed memory management issue - update 36
