@@ -81,3 +81,4 @@ Optimized algorithm for better efficiency - 918
 Fixed critical bug in main module
 Updated project documentation - update 11
 Improved user interface design - 737
+Fixed memory management issue - v10.7.1
