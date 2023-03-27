@@ -88,3 +88,4 @@ Updated dependencies to latest versions
 Updated dependencies to latest versions - build 580
 Added comprehensive test coverage - build 277
 Updated version number
+Updated configuration settings - v7.8.3
