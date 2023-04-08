@@ -2114,3 +2114,4 @@ Optimized algorithm for better efficiency - v4.2.4
 Updated project documentation
 Updated configuration settings - v4.1.5
 Added comprehensive test coverage
+Updated README with new instructions - v6.1.1
