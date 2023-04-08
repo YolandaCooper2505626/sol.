@@ -2112,3 +2112,4 @@ Fixed memory management issue
 Optimized algorithm for better efficiency - build 409
 Optimized algorithm for better efficiency - v4.2.4
 Updated project documentation
+Updated configuration settings - v4.1.5
