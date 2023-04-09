@@ -876,3 +876,4 @@ Fixed typo in documentation - build 193
 Updated version number - 846
 Updated version number - 577
 Updated project documentation - v9.1.0
+Updated styling and themes - v4.6.2
