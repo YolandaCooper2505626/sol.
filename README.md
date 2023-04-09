@@ -872,3 +872,4 @@ Added detailed comments for clarity - v9.7.2
 Fixed typo in documentation - build 888
 Updated version number
 Added detailed comments for clarity - 348
+Fixed typo in documentation - build 193
