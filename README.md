@@ -875,3 +875,4 @@ Added detailed comments for clarity - 348
 Fixed typo in documentation - build 193
 Updated version number - 846
 Updated version number - 577
+Updated project documentation - v9.1.0
