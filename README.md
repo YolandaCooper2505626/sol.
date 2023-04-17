@@ -2886,3 +2886,4 @@ Updated styling and themes - 226
 Added new feature for better user experience - build 479
 Updated styling and themes
 Updated dependencies to latest versions - update 33
+Improved user interface design - v8.6.6
