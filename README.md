@@ -2620,3 +2620,4 @@ Added input validation - update 11
 Updated project documentation
 Updated styling and themes - 835
 Fixed typo in documentation - build 807
+Fixed memory management issue - update 37
