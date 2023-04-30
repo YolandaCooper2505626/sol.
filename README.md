@@ -2905,3 +2905,4 @@ Updated project documentation - update 39
 Fixed memory management issue - update 20
 Fixed typo in documentation - v5.8.1
 Updated styling and themes - v2.6.8
+Fixed critical bug in main module
