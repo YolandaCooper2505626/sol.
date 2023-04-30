@@ -2907,3 +2907,4 @@ Fixed typo in documentation - v5.8.1
 Updated styling and themes - v2.6.8
 Fixed critical bug in main module
 Optimized algorithm for better efficiency
+Updated dependencies to latest versions - v7.9.7
