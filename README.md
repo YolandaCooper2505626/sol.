@@ -2903,3 +2903,4 @@ Added input validation - build 934
 Optimized algorithm for better efficiency
 Updated project documentation - update 39
 Fixed memory management issue - update 20
+Fixed typo in documentation - v5.8.1
