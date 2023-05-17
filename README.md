@@ -604,3 +604,4 @@ Updated styling and themes - v3.0.8
 Refactored code for better maintainability - 500
 Updated version number - 703
 Added comprehensive test coverage - update 35
+Fixed typo in documentation - v3.1.6
