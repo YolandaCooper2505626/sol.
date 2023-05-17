@@ -606,3 +606,4 @@ Updated version number - 703
 Added comprehensive test coverage - update 35
 Fixed typo in documentation - v3.1.6
 Fixed critical bug in main module - update 38
+Updated project documentation - v8.7.0
