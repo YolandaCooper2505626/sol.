@@ -3908,3 +3908,4 @@ Fixed memory management issue - 37
 Improved user interface design
 Fixed typo in documentation - v10.1.7
 Added comprehensive test coverage - build 549
+Fixed memory management issue - v5.0.7
