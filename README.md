@@ -3912,3 +3912,4 @@ Fixed memory management issue - v5.0.7
 Added new feature for better user experience - update 47
 Updated project documentation - 431
 Added new feature for better user experience - build 961
+Fixed code formatting issues - v5.1.2
