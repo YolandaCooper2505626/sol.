@@ -1337,3 +1337,4 @@ Fixed typo in documentation
 Optimized algorithm for better efficiency - v4.5.4
 Improved performance optimization - v7.7.5
 Added new feature for better user experience
+Fixed memory management issue - v5.9.1
