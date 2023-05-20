@@ -799,3 +799,4 @@ Fixed memory management issue
 Improved user interface design - v3.9.7
 Optimized algorithm for better efficiency - 935
 Optimized algorithm for better efficiency - 875
+Improved user interface design - update 28
