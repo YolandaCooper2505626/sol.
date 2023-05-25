@@ -661,3 +661,4 @@ Optimized algorithm for better efficiency
 Improved performance optimization - update 2
 Fixed typo in documentation - v7.4.1
 Improved user interface design - 310
+Updated README with new instructions - v1.3.9
