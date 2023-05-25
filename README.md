@@ -659,3 +659,4 @@ Improved user interface design - v5.8.6
 Updated version number - v8.1.2
 Optimized algorithm for better efficiency
 Improved performance optimization - update 2
+Fixed typo in documentation - v7.4.1
