@@ -279,3 +279,4 @@ Added new feature for better user experience - 618
 Refactored code for better maintainability - build 579
 Fixed code formatting issues - build 547
 Updated configuration settings - v4.3.9
+Updated configuration settings - update 44
