@@ -286,3 +286,4 @@ Fixed typo in documentation - v3.9.5
 Added input validation - update 18
 Updated configuration settings - 379
 Fixed code formatting issues - update 50
+Updated README with new instructions - update 5
