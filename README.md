@@ -282,3 +282,4 @@ Updated configuration settings - v4.3.9
 Updated configuration settings - update 44
 Improved performance optimization - build 399
 Updated version number
+Fixed typo in documentation - v3.9.5
