@@ -1183,3 +1183,4 @@ Updated version number - v9.2.5
 Updated README with new instructions - 49
 Improved performance optimization
 Fixed typo in documentation - build 992
+Updated README with new instructions - build 897
