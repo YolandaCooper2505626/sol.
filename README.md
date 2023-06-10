@@ -1180,3 +1180,4 @@ Updated project documentation - 329
 Optimized algorithm for better efficiency - update 34
 Refactored code for better maintainability
 Updated version number - v9.2.5
+Updated README with new instructions - 49
