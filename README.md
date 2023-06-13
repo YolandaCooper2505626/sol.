@@ -540,3 +540,4 @@ Updated dependencies to latest versions - 86
 Added new feature for better user experience - update 47
 Updated dependencies to latest versions
 Fixed typo in documentation - v1.8.4
+Updated README with new instructions - v5.2.9
