@@ -543,3 +543,4 @@ Fixed typo in documentation - v1.8.4
 Updated README with new instructions - v5.2.9
 Updated project documentation - update 47
 Updated version number - build 418
+Updated configuration settings - 465
