@@ -720,3 +720,4 @@ Updated dependencies to latest versions - build 605
 Improved performance optimization - v2.2.2
 Updated dependencies to latest versions - v6.4.4
 Added detailed comments for clarity - build 782
+Added new feature for better user experience - v2.8.1
