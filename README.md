@@ -3119,3 +3119,4 @@ Code cleanup and formatting - update 24
 Added input validation - build 127
 Fixed code formatting issues
 Updated project documentation - v4.3.0
+Fixed memory management issue - v10.0.3
