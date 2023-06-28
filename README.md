@@ -3121,3 +3121,4 @@ Fixed code formatting issues
 Updated project documentation - v4.3.0
 Fixed memory management issue - v10.0.3
 Fixed memory management issue
+Added proper error handling - v2.7.8
