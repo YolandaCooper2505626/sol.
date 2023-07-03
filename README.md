@@ -1545,3 +1545,4 @@ Fixed code formatting issues - build 717
 Added new feature for better user experience - update 21
 Updated README with new instructions
 Fixed typo in documentation
+Added detailed comments for clarity - v1.9.3
