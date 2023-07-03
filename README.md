@@ -2107,3 +2107,4 @@ Added proper error handling - v2.5.7
 Added comprehensive test coverage - update 27
 Added comprehensive test coverage - v3.4.2
 Improved user interface design - build 445
+Updated README with new instructions - v3.8.0
