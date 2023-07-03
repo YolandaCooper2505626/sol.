@@ -528,3 +528,4 @@ Updated dependencies to latest versions
 Updated version number - v6.1.4
 Updated dependencies to latest versions
 Added new feature for better user experience
+Optimized algorithm for better efficiency
