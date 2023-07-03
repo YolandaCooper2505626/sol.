@@ -1539,3 +1539,4 @@ Fixed critical bug in main module - update 19
 Fixed memory management issue - build 501
 Updated styling and themes
 Code cleanup and formatting - 488
+Fixed critical bug in main module - v9.9.8
