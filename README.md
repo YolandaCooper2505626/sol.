@@ -1544,3 +1544,4 @@ Updated dependencies to latest versions - 297
 Fixed code formatting issues - build 717
 Added new feature for better user experience - update 21
 Updated README with new instructions
+Fixed typo in documentation
