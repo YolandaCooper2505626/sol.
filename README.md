@@ -2970,3 +2970,4 @@ Added input validation - 524
 Fixed typo in documentation - v4.9.1
 Fixed typo in documentation - 989
 Updated configuration settings
+Code cleanup and formatting - 344
