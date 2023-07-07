@@ -3,3 +3,4 @@ Fixed typo in documentation - build 409
 Updated configuration settings - build 323
 Added new feature for better user experience - update 18
 Added new feature for better user experience - 839
+Updated README with new instructions - 898
