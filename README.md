@@ -2665,3 +2665,4 @@ Updated version number - 122
 Updated project documentation
 Updated version number - v3.7.3
 Improved performance optimization
+Fixed memory management issue - 825
