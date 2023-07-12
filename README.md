@@ -1404,3 +1404,4 @@ Updated styling and themes - build 481
 Updated project documentation - build 391
 Updated version number - v5.5.7
 Fixed memory management issue - build 978
+Updated dependencies to latest versions - build 341
