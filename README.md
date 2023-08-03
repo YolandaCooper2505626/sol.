@@ -3574,3 +3574,4 @@ Optimized algorithm for better efficiency
 Added new feature for better user experience - v4.2.1
 Optimized algorithm for better efficiency - build 948
 Added new feature for better user experience - v10.1.9
+Improved user interface design - update 28
