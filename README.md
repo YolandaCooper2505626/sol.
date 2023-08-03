@@ -2054,3 +2054,4 @@ Improved user interface design
 Improved performance optimization - build 890
 Fixed typo in documentation
 Updated styling and themes - 370
+Updated dependencies to latest versions - v2.8.1
