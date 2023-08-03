@@ -2057,3 +2057,4 @@ Updated styling and themes - 370
 Updated dependencies to latest versions - v2.8.1
 Updated configuration settings - update 28
 Updated version number - 897
+Updated version number - v6.1.2
