@@ -3569,3 +3569,4 @@ Added input validation - build 821
 Updated project documentation - v6.0.1
 Refactored code for better maintainability - build 694
 Code cleanup and formatting - 831
+Added detailed comments for clarity - build 723
