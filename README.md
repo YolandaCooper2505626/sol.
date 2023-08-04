@@ -3490,3 +3490,4 @@ Code cleanup and formatting
 Updated version number - update 3
 Updated dependencies to latest versions - v1.3.1
 Updated README with new instructions - 741
+Added detailed comments for clarity - build 156
