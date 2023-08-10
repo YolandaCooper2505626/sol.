@@ -1379,3 +1379,4 @@ Added new feature for better user experience - 101
 Fixed typo in documentation - update 11
 Added input validation - update 24
 Updated version number
+Added detailed comments for clarity
