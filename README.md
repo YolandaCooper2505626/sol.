@@ -3442,3 +3442,4 @@ Updated project documentation - 798
 Updated README with new instructions - build 777
 Optimized algorithm for better efficiency
 Updated version number
+Updated README with new instructions - update 16
