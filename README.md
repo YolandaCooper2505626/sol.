@@ -3445,3 +3445,4 @@ Updated version number
 Updated README with new instructions - update 16
 Fixed code formatting issues - update 39
 Refactored code for better maintainability - v10.2.1
+Fixed critical bug in main module - v5.8.8
