@@ -3871,3 +3871,4 @@ Improved performance optimization - build 415
 Added input validation - update 9
 Refactored code for better maintainability - build 761
 Updated version number - v5.0.2
+Fixed typo in documentation
