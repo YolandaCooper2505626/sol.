@@ -298,3 +298,4 @@ Fixed memory management issue - build 733
 Added new feature for better user experience - v1.4.7
 Added detailed comments for clarity - 991
 Updated README with new instructions - update 50
+Fixed typo in documentation - build 885
