@@ -3874,3 +3874,4 @@ Updated version number - v5.0.2
 Fixed typo in documentation
 Updated styling and themes
 Updated version number - 714
+Updated dependencies to latest versions - build 681
