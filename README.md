@@ -2990,3 +2990,4 @@ Updated dependencies to latest versions
 Refactored code for better maintainability - 525
 Updated configuration settings - 695
 Updated README with new instructions
+Updated configuration settings - v7.9.4
