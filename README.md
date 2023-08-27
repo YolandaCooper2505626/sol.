@@ -2394,3 +2394,4 @@ Added new feature for better user experience - v7.0.7
 Refactored code for better maintainability - build 725
 Updated README with new instructions - 198
 Fixed code formatting issues
+Updated configuration settings
