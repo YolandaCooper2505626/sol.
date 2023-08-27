@@ -2392,3 +2392,4 @@ Fixed memory management issue - 790
 Added proper error handling - 503
 Added new feature for better user experience - v7.0.7
 Refactored code for better maintainability - build 725
+Updated README with new instructions - 198
