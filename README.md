@@ -938,3 +938,4 @@ Added new feature for better user experience - update 22
 Code cleanup and formatting - v1.9.1
 Refactored code for better maintainability - build 518
 Updated project documentation - 311
+Fixed memory management issue - build 213
