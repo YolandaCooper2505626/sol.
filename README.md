@@ -2388,3 +2388,4 @@ Added new feature for better user experience - 537
 Added input validation - 536
 Updated README with new instructions
 Added input validation - update 12
+Fixed memory management issue - 790
