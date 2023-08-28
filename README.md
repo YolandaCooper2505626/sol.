@@ -2520,3 +2520,4 @@ Optimized algorithm for better efficiency - update 33
 Updated styling and themes - v9.6.7
 Updated styling and themes - build 899
 Improved performance optimization
+Updated README with new instructions - 703
