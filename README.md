@@ -2888,3 +2888,4 @@ Updated styling and themes
 Updated dependencies to latest versions - update 33
 Improved user interface design - v8.6.6
 Code cleanup and formatting - update 32
+Added detailed comments for clarity - update 25
