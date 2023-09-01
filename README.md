@@ -2894,3 +2894,4 @@ Fixed critical bug in main module - build 804
 Updated dependencies to latest versions - build 341
 Updated project documentation - 81
 Updated version number - update 23
+Fixed typo in documentation
