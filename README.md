@@ -880,3 +880,4 @@ Updated styling and themes - v4.6.2
 Added detailed comments for clarity
 Fixed typo in documentation - update 41
 Updated configuration settings - build 305
+Added new feature for better user experience - v4.1.4
