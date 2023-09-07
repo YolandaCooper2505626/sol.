@@ -554,3 +554,4 @@ Fixed code formatting issues - build 735
 Fixed typo in documentation - 484
 Updated project documentation - v8.6.0
 Fixed typo in documentation
+Updated version number - v1.0.4
