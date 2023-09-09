@@ -248,3 +248,4 @@ Updated version number - 157
 Added proper error handling - 387
 Fixed critical bug in main module - build 651
 Fixed typo in documentation - build 786
+Updated styling and themes - build 184
