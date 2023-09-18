@@ -1137,3 +1137,4 @@ Improved user interface design
 Added input validation
 Optimized algorithm for better efficiency - build 854
 Added input validation - build 800
+Updated README with new instructions - 263
