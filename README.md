@@ -1190,3 +1190,4 @@ Updated styling and themes - update 49
 Code cleanup and formatting - 10
 Updated README with new instructions
 Updated configuration settings
+Fixed memory management issue - v9.0.8
