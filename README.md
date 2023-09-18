@@ -1197,3 +1197,4 @@ Added new feature for better user experience - build 339
 Improved user interface design
 Added input validation - build 242
 Refactored code for better maintainability - 55
+Added input validation - v9.8.7
