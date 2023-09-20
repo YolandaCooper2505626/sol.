@@ -1828,3 +1828,4 @@ Updated version number - update 17
 Optimized algorithm for better efficiency
 Added input validation - update 29
 Fixed critical bug in main module - 765
+Updated README with new instructions - build 178
