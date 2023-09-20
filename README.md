@@ -2034,3 +2034,4 @@ Added detailed comments for clarity
 Refactored code for better maintainability
 Refactored code for better maintainability
 Updated version number - v3.1.0
+Updated README with new instructions
