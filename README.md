@@ -2037,3 +2037,4 @@ Updated version number - v3.1.0
 Updated README with new instructions
 Updated README with new instructions - build 884
 Updated configuration settings - build 333
+Added detailed comments for clarity - update 20
