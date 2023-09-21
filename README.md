@@ -1307,3 +1307,4 @@ Updated version number - v3.5.9
 Refactored code for better maintainability - update 29
 Added new feature for better user experience - v9.4.3
 Updated README with new instructions - build 710
+Added input validation - build 863
