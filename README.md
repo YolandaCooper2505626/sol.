@@ -1306,3 +1306,4 @@ Fixed memory management issue - v6.7.8
 Updated version number - v3.5.9
 Refactored code for better maintainability - update 29
 Added new feature for better user experience - v9.4.3
+Updated README with new instructions - build 710
