@@ -3898,3 +3898,4 @@ Fixed memory management issue - build 368
 Fixed typo in documentation - update 36
 Updated project documentation
 Updated README with new instructions - build 944
+Added detailed comments for clarity - v10.8.9
