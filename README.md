@@ -992,3 +992,4 @@ Fixed typo in documentation - update 46
 Added input validation - v9.5.8
 Added comprehensive test coverage - build 893
 Code cleanup and formatting - v4.8.6
+Updated README with new instructions
