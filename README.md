@@ -1032,3 +1032,4 @@ Optimized algorithm for better efficiency - v3.1.5
 Updated README with new instructions
 Fixed critical bug in main module
 Updated dependencies to latest versions - 874
+Updated styling and themes - v8.5.8
