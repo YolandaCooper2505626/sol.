@@ -3079,3 +3079,4 @@ Refactored code for better maintainability
 Added new feature for better user experience
 Updated version number
 Added new feature for better user experience
+Fixed memory management issue
