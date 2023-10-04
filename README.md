@@ -231,3 +231,4 @@ Fixed memory management issue
 Code cleanup and formatting - 779
 Added new feature for better user experience - v3.9.9
 Fixed critical bug in main module - v9.6.8
+Improved user interface design - v8.7.0
