@@ -291,3 +291,4 @@ Added new feature for better user experience - update 14
 Fixed typo in documentation - 126
 Refactored code for better maintainability
 Added comprehensive test coverage - update 41
+Updated README with new instructions - v4.8.7
