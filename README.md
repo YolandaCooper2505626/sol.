@@ -3645,3 +3645,4 @@ Fixed code formatting issues - v6.5.4
 Code cleanup and formatting - 368
 Updated version number - build 284
 Improved user interface design - build 874
+Fixed code formatting issues - build 571
