@@ -1351,3 +1351,4 @@ Refactored code for better maintainability
 Added comprehensive test coverage - v8.6.7
 Updated version number - 871
 Updated styling and themes - update 9
+Added input validation - v6.0.1
