@@ -1123,3 +1123,4 @@ Fixed memory management issue - v3.7.9
 Fixed typo in documentation
 Added proper error handling
 Added proper error handling
+Updated README with new instructions - v7.8.4
