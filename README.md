@@ -2362,3 +2362,4 @@ Updated configuration settings - v5.8.2
 Updated version number - build 212
 Fixed critical bug in main module
 Fixed code formatting issues - v2.7.7
+Added new feature for better user experience - v5.8.0
