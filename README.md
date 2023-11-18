@@ -1377,3 +1377,4 @@ Updated dependencies to latest versions - 948
 Improved user interface design - v3.8.1
 Added new feature for better user experience - 101
 Fixed typo in documentation - update 11
+Added input validation - update 24
