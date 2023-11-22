@@ -2457,3 +2457,4 @@ Added new feature for better user experience - build 421
 Fixed memory management issue - v1.9.8
 Updated version number
 Fixed typo in documentation - v7.0.2
+Updated configuration settings - update 2
