@@ -2454,3 +2454,4 @@ Improved user interface design
 Improved performance optimization - build 747
 Added input validation - v6.1.3
 Added new feature for better user experience - build 421
+Fixed memory management issue - v1.9.8
