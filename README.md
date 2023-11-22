@@ -2456,3 +2456,4 @@ Added input validation - v6.1.3
 Added new feature for better user experience - build 421
 Fixed memory management issue - v1.9.8
 Updated version number
+Fixed typo in documentation - v7.0.2
