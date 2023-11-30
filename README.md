@@ -1117,3 +1117,4 @@ Fixed critical bug in main module
 Fixed code formatting issues - build 466
 Updated README with new instructions - v8.0.8
 Updated styling and themes
+Updated version number - v8.5.4
