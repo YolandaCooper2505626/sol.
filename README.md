@@ -1115,3 +1115,4 @@ Refactored code for better maintainability - update 30
 Updated styling and themes - update 18
 Fixed critical bug in main module
 Fixed code formatting issues - build 466
+Updated README with new instructions - v8.0.8
