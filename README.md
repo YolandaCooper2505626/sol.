@@ -2290,3 +2290,4 @@ Code cleanup and formatting - build 787
 Added new feature for better user experience - update 35
 Added new feature for better user experience - build 855
 Updated README with new instructions - build 876
+Added proper error handling
