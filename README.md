@@ -2296,3 +2296,4 @@ Improved user interface design - 469
 Fixed code formatting issues - 281
 Fixed critical bug in main module - v3.9.1
 Fixed memory management issue - v5.2.4
+Updated README with new instructions - v8.9.9
