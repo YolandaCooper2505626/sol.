@@ -3215,3 +3215,4 @@ Added proper error handling - build 507
 Updated README with new instructions - build 778
 Fixed code formatting issues - build 514
 Updated styling and themes - update 33
+Fixed typo in documentation - v3.2.0
