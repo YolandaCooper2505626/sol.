@@ -1690,3 +1690,4 @@ Updated README with new instructions - update 23
 Updated README with new instructions
 Improved performance optimization - 997
 Added detailed comments for clarity - build 937
+Fixed typo in documentation - v5.4.4
