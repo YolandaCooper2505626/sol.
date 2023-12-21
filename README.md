@@ -1649,3 +1649,4 @@ Updated configuration settings - build 979
 Fixed code formatting issues - update 44
 Updated project documentation - 283
 Code cleanup and formatting
+Updated README with new instructions - update 47
