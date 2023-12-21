@@ -1694,3 +1694,4 @@ Fixed typo in documentation - v5.4.4
 Updated configuration settings - update 25
 Improved user interface design - 925
 Updated project documentation - v8.6.3
+Updated README with new instructions - 993
