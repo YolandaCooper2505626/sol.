@@ -1358,3 +1358,4 @@ Refactored code for better maintainability - update 7
 Updated configuration settings
 Updated version number - 302
 Refactored code for better maintainability - build 957
+Fixed typo in documentation
