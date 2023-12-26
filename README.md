@@ -1363,3 +1363,4 @@ Code cleanup and formatting - build 765
 Added proper error handling - v10.5.2
 Added input validation - update 36
 Added detailed comments for clarity - update 31
+Updated README with new instructions - v5.9.4
