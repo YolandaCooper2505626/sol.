@@ -1913,3 +1913,4 @@ Added proper error handling - 261
 Code cleanup and formatting
 Added new feature for better user experience - build 846
 Optimized algorithm for better efficiency - update 46
+Updated README with new instructions - v8.0.5
