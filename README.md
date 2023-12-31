@@ -3681,3 +3681,4 @@ Updated project documentation - v10.2.8
 Fixed typo in documentation
 Updated dependencies to latest versions - build 167
 Added detailed comments for clarity
+Updated README with new instructions - build 329
