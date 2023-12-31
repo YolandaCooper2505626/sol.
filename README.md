@@ -144,3 +144,4 @@ Updated dependencies to latest versions - v7.7.9
 Improved performance optimization - 441
 Updated configuration settings - v9.5.2
 Refactored code for better maintainability
+Updated README with new instructions - 615
