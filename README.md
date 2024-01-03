@@ -3949,3 +3949,4 @@ Improved user interface design - build 146
 Updated project documentation - 321
 Refactored code for better maintainability - v8.7.9
 Fixed code formatting issues
+Updated README with new instructions - build 684
