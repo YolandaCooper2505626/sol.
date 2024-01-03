@@ -815,3 +815,4 @@ Fixed critical bug in main module
 Updated styling and themes - 55
 Code cleanup and formatting - 324
 Updated styling and themes - v8.5.2
+Fixed typo in documentation - update 36
