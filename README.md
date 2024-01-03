@@ -808,3 +808,4 @@ Fixed memory management issue
 Added new feature for better user experience - update 50
 Added new feature for better user experience - build 168
 Improved performance optimization - v3.8.6
+Updated configuration settings - build 145
