@@ -2411,3 +2411,4 @@ Updated dependencies to latest versions - v10.3.3
 Updated dependencies to latest versions - build 279
 Code cleanup and formatting
 Updated README with new instructions - build 251
+Added new feature for better user experience - 987
