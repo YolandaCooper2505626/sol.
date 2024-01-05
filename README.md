@@ -2410,3 +2410,4 @@ Added proper error handling - 318
 Updated dependencies to latest versions - v10.3.3
 Updated dependencies to latest versions - build 279
 Code cleanup and formatting
+Updated README with new instructions - build 251
