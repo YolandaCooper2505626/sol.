@@ -3370,3 +3370,4 @@ Updated project documentation - update 35
 Updated README with new instructions
 Optimized algorithm for better efficiency - v7.9.5
 Fixed typo in documentation - v1.0.9
+Refactored code for better maintainability
