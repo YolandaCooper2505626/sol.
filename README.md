@@ -2641,3 +2641,4 @@ Updated dependencies to latest versions
 Improved performance optimization - v1.5.3
 Improved performance optimization
 Updated version number - 960
+Added proper error handling - v9.0.0
