@@ -1574,3 +1574,4 @@ Updated project documentation - update 2
 Updated styling and themes - build 798
 Added new feature for better user experience - build 862
 Improved user interface design - v2.9.6
+Added new feature for better user experience - build 738
