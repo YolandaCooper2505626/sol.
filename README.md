@@ -1805,3 +1805,4 @@ Optimized algorithm for better efficiency - 790
 Code cleanup and formatting - update 16
 Code cleanup and formatting
 Fixed critical bug in main module - v9.3.7
+Updated version number - v9.7.2
