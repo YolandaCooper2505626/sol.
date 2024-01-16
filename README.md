@@ -2583,3 +2583,4 @@ Added input validation - 899
 Fixed code formatting issues - build 237
 Fixed typo in documentation
 Added input validation - build 844
+Updated README with new instructions - build 248
