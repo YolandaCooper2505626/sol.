@@ -119,3 +119,4 @@ Updated README with new instructions - build 986
 Updated styling and themes - build 527
 Updated version number - update 5
 Updated project documentation - 629
+Updated dependencies to latest versions - build 455
