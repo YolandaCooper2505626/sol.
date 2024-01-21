@@ -118,3 +118,4 @@ Refactored code for better maintainability - update 49
 Updated README with new instructions - build 986
 Updated styling and themes - build 527
 Updated version number - update 5
+Updated project documentation - 629
