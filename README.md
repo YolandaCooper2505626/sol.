@@ -121,3 +121,4 @@ Updated version number - update 5
 Updated project documentation - 629
 Updated dependencies to latest versions - build 455
 Updated project documentation - build 193
+Added comprehensive test coverage - v2.7.1
