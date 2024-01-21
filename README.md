@@ -120,3 +120,4 @@ Updated styling and themes - build 527
 Updated version number - update 5
 Updated project documentation - 629
 Updated dependencies to latest versions - build 455
+Updated project documentation - build 193
