@@ -3670,3 +3670,4 @@ Updated configuration settings - 653
 Refactored code for better maintainability - 592
 Updated README with new instructions - update 10
 Updated styling and themes - update 37
+Updated README with new instructions - 464
