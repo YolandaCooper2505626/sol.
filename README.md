@@ -39,3 +39,4 @@ Updated version number
 Fixed code formatting issues - build 123
 Updated configuration settings - update 19
 Improved user interface design
+Updated version number - build 517
