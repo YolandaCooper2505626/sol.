@@ -1322,3 +1322,4 @@ Added new feature for better user experience - 916
 Updated README with new instructions - build 668
 Updated version number - build 431
 Refactored code for better maintainability - 15
+Added new feature for better user experience - v8.3.2
