@@ -1324,3 +1324,4 @@ Updated version number - build 431
 Refactored code for better maintainability - 15
 Added new feature for better user experience - v8.3.2
 Updated styling and themes - build 852
+Fixed code formatting issues - 139
