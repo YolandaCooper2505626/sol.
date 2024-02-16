@@ -1682,3 +1682,4 @@ Fixed typo in documentation - build 153
 Updated dependencies to latest versions
 Updated version number - 814
 Optimized algorithm for better efficiency - update 39
+Updated project documentation - v8.3.1
