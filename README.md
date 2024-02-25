@@ -754,3 +754,4 @@ Added detailed comments for clarity - v1.7.8
 Fixed typo in documentation
 Added detailed comments for clarity - build 929
 Fixed memory management issue - 312
+Improved user interface design - 964
