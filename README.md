@@ -3150,3 +3150,4 @@ Fixed memory management issue - build 326
 Added comprehensive test coverage - build 626
 Updated project documentation
 Updated version number - 443
+Updated README with new instructions - build 613
