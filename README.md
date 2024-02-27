@@ -3156,3 +3156,4 @@ Updated dependencies to latest versions - 1000
 Updated version number - update 12
 Updated README with new instructions - update 29
 Fixed memory management issue - update 48
+Updated version number - v4.7.2
