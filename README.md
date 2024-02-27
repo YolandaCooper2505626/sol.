@@ -3155,3 +3155,4 @@ Updated styling and themes - build 571
 Updated dependencies to latest versions - 1000
 Updated version number - update 12
 Updated README with new instructions - update 29
+Fixed memory management issue - update 48
