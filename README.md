@@ -1818,3 +1818,4 @@ Updated README with new instructions - 71
 Fixed typo in documentation - v6.0.6
 Fixed critical bug in main module
 Fixed critical bug in main module - v6.7.6
+Added proper error handling - v7.4.5
