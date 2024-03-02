@@ -1155,3 +1155,4 @@ Fixed critical bug in main module - 736
 Added input validation - update 46
 Added input validation
 Updated version number - v6.7.7
+Fixed typo in documentation - build 716
