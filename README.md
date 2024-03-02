@@ -1157,3 +1157,4 @@ Added input validation
 Updated version number - v6.7.7
 Fixed typo in documentation - build 716
 Fixed memory management issue
+Updated styling and themes
