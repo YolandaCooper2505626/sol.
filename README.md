@@ -2567,3 +2567,4 @@ Updated dependencies to latest versions - update 38
 Updated README with new instructions - update 22
 Code cleanup and formatting
 Added new feature for better user experience - build 964
+Updated README with new instructions - v8.0.9
