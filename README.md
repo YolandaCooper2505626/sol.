@@ -1461,3 +1461,4 @@ Code cleanup and formatting
 Improved user interface design - update 15
 Fixed memory management issue - update 47
 Refactored code for better maintainability
+Updated README with new instructions - v7.7.4
