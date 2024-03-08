@@ -1460,3 +1460,4 @@ Added new feature for better user experience - v8.5.1
 Code cleanup and formatting
 Improved user interface design - update 15
 Fixed memory management issue - update 47
+Refactored code for better maintainability
