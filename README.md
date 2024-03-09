@@ -3427,3 +3427,4 @@ Added new feature for better user experience - update 28
 Fixed code formatting issues - 902
 Fixed memory management issue - update 50
 Added input validation - build 983
+Added detailed comments for clarity
