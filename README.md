@@ -3420,3 +3420,4 @@ Fixed critical bug in main module - update 38
 Fixed memory management issue - v5.1.8
 Updated dependencies to latest versions - 147
 Optimized algorithm for better efficiency - 211
+Updated README with new instructions - update 49
