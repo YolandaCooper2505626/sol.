@@ -2594,3 +2594,4 @@ Fixed memory management issue - build 502
 Improved user interface design - build 883
 Updated version number
 Optimized algorithm for better efficiency - 756
+Fixed code formatting issues - v3.3.9
