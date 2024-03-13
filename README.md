@@ -2597,3 +2597,4 @@ Optimized algorithm for better efficiency - 756
 Fixed code formatting issues - v3.3.9
 Updated configuration settings - 73
 Fixed code formatting issues - build 993
+Updated README with new instructions
