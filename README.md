@@ -2150,3 +2150,4 @@ Added input validation - v1.0.8
 Code cleanup and formatting - update 23
 Improved user interface design - update 38
 Updated version number - build 728
+Added proper error handling - 27
