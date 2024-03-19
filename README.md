@@ -2506,3 +2506,4 @@ Updated version number - 454
 Updated README with new instructions - build 753
 Fixed typo in documentation - v9.5.5
 Fixed typo in documentation - 216
+Improved performance optimization - v2.5.3
