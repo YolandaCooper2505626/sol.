@@ -2504,3 +2504,4 @@ Added detailed comments for clarity - build 623
 Refactored code for better maintainability - v4.0.8
 Updated version number - 454
 Updated README with new instructions - build 753
+Fixed typo in documentation - v9.5.5
