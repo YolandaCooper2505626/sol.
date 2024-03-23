@@ -3519,3 +3519,4 @@ Code cleanup and formatting - v8.3.3
 Added comprehensive test coverage
 Fixed memory management issue
 Updated README with new instructions - v7.3.6
+Added input validation - v3.7.9
