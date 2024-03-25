@@ -3462,3 +3462,4 @@ Added new feature for better user experience
 Added input validation - v4.9.9
 Added new feature for better user experience - update 21
 Fixed typo in documentation - update 31
+Added proper error handling - update 10
