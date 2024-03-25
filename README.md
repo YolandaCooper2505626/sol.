@@ -3464,3 +3464,4 @@ Added new feature for better user experience - update 21
 Fixed typo in documentation - update 31
 Added proper error handling - update 10
 Added proper error handling - update 41
+Updated version number - 511
