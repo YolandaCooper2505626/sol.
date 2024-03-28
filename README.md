@@ -2250,3 +2250,4 @@ Refactored code for better maintainability - update 33
 Updated configuration settings - build 967
 Code cleanup and formatting
 Updated version number
+Updated configuration settings - update 26
