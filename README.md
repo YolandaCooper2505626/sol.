@@ -90,3 +90,4 @@ Added comprehensive test coverage - build 277
 Updated version number
 Updated configuration settings - v7.8.3
 Fixed critical bug in main module
+Updated version number - 590
