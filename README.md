@@ -98,3 +98,4 @@ Updated README with new instructions
 Fixed code formatting issues - v4.7.6
 Updated version number - 713
 Added new feature for better user experience
+Added input validation - v10.2.2
