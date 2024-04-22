@@ -94,3 +94,4 @@ Updated version number - 590
 Updated version number - 145
 Updated README with new instructions - update 20
 Improved user interface design - update 47
+Updated README with new instructions
