@@ -92,3 +92,4 @@ Updated configuration settings - v7.8.3
 Fixed critical bug in main module
 Updated version number - 590
 Updated version number - 145
+Updated README with new instructions - update 20
