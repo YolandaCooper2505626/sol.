@@ -3379,3 +3379,4 @@ Updated project documentation - update 49
 Optimized algorithm for better efficiency
 Updated styling and themes - build 577
 Optimized algorithm for better efficiency - update 25
+Added detailed comments for clarity - v9.0.7
