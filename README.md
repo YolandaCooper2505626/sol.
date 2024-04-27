@@ -34,3 +34,4 @@ Added new feature for better user experience - v2.3.6
 Added input validation
 Fixed code formatting issues - 778
 Refactored code for better maintainability - 143
+Fixed memory management issue
