@@ -30,3 +30,4 @@ Updated version number - 180
 Added input validation - build 635
 Updated version number - update 16
 Added new feature for better user experience
+Added new feature for better user experience - v2.3.6
