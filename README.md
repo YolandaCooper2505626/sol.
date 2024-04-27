@@ -29,3 +29,4 @@ Added proper error handling - 265
 Updated version number - 180
 Added input validation - build 635
 Updated version number - update 16
+Added new feature for better user experience
