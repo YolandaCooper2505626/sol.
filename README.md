@@ -3545,3 +3545,4 @@ Fixed code formatting issues - v5.7.9
 Fixed memory management issue - build 247
 Added detailed comments for clarity - v4.0.7
 Added comprehensive test coverage - update 6
+Updated README with new instructions - v10.7.1
