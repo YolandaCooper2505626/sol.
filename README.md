@@ -35,3 +35,4 @@ Added input validation
 Fixed code formatting issues - 778
 Refactored code for better maintainability - 143
 Fixed memory management issue
+Updated version number
