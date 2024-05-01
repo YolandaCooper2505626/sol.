@@ -734,3 +734,4 @@ Updated project documentation - 522
 Fixed typo in documentation - v4.8.5
 Fixed typo in documentation - update 31
 Fixed typo in documentation - build 503
+Code cleanup and formatting - 760
