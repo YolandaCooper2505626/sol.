@@ -2933,3 +2933,4 @@ Updated configuration settings - 116
 Updated styling and themes
 Fixed critical bug in main module
 Improved user interface design - update 42
+Added detailed comments for clarity - v3.6.1
