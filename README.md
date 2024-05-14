@@ -2080,3 +2080,4 @@ Code cleanup and formatting - update 47
 Code cleanup and formatting - build 604
 Added input validation - build 323
 Improved user interface design - v6.4.1
+Fixed memory management issue - build 279
