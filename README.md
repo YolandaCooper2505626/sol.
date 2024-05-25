@@ -841,3 +841,4 @@ Added comprehensive test coverage - 950
 Fixed memory management issue - v9.5.5
 Added comprehensive test coverage - build 318
 Updated dependencies to latest versions - update 32
+Updated README with new instructions
