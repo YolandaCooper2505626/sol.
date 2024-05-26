@@ -2836,3 +2836,4 @@ Added detailed comments for clarity - update 37
 Fixed memory management issue - v2.4.2
 Updated version number - 834
 Fixed memory management issue - v6.1.1
+Optimized algorithm for better efficiency
