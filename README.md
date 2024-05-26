@@ -2830,3 +2830,4 @@ Updated dependencies to latest versions
 Updated styling and themes - v1.2.6
 Updated README with new instructions - build 883
 Updated version number - v5.1.0
+Fixed critical bug in main module - 217
