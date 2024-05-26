@@ -2833,3 +2833,4 @@ Updated version number - v5.1.0
 Fixed critical bug in main module - 217
 Updated README with new instructions
 Added detailed comments for clarity - update 37
+Fixed memory management issue - v2.4.2
