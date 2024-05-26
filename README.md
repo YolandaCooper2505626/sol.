@@ -2832,3 +2832,4 @@ Updated README with new instructions - build 883
 Updated version number - v5.1.0
 Fixed critical bug in main module - 217
 Updated README with new instructions
+Added detailed comments for clarity - update 37
