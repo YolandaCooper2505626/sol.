@@ -3277,3 +3277,4 @@ Code cleanup and formatting - 710
 Updated configuration settings - update 13
 Added input validation - 785
 Updated configuration settings - v5.7.8
+Added input validation - v3.9.3
