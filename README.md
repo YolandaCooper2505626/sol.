@@ -2429,3 +2429,4 @@ Updated project documentation
 Improved user interface design - build 869
 Updated version number
 Updated project documentation
+Fixed critical bug in main module - v4.1.1
