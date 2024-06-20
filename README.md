@@ -1994,3 +1994,4 @@ Updated version number - update 23
 Added detailed comments for clarity - update 18
 Fixed code formatting issues - 621
 Added input validation - 315
+Fixed memory management issue - update 21
