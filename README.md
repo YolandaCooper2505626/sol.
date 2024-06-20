@@ -2432,3 +2432,4 @@ Updated project documentation
 Fixed critical bug in main module - v4.1.1
 Updated project documentation
 Updated styling and themes - v1.2.4
+Updated README with new instructions - build 540
