@@ -2436,3 +2436,4 @@ Updated README with new instructions - build 540
 Fixed memory management issue - update 22
 Added new feature for better user experience - build 291
 Refactored code for better maintainability - 8
+Fixed memory management issue - build 706
