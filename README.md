@@ -2431,3 +2431,4 @@ Updated version number
 Updated project documentation
 Fixed critical bug in main module - v4.1.1
 Updated project documentation
+Updated styling and themes - v1.2.4
