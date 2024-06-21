@@ -2326,3 +2326,4 @@ Added input validation - build 789
 Updated dependencies to latest versions - 31
 Fixed code formatting issues - v6.7.1
 Updated README with new instructions - update 15
+Updated README with new instructions
