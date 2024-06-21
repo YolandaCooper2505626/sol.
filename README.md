@@ -2321,3 +2321,4 @@ Updated styling and themes
 Updated version number - 661
 Added new feature for better user experience
 Added proper error handling - 823
+Fixed typo in documentation - build 280
