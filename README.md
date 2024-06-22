@@ -2092,3 +2092,4 @@ Updated version number - build 325
 Fixed memory management issue
 Improved performance optimization - v9.4.3
 Improved performance optimization
+Updated configuration settings - build 251
