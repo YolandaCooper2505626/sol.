@@ -2089,3 +2089,4 @@ Added new feature for better user experience - 26
 Fixed memory management issue - 473
 Fixed critical bug in main module - build 714
 Updated version number - build 325
+Fixed memory management issue
