@@ -109,3 +109,4 @@ Code cleanup and formatting - update 39
 Updated README with new instructions - 124
 Added proper error handling - v5.2.7
 Added input validation - update 27
+Added input validation - update 20
