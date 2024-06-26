@@ -412,3 +412,4 @@ Improved performance optimization - v1.1.3
 Updated project documentation - update 1
 Fixed memory management issue - update 33
 Added proper error handling - v5.5.8
+Added detailed comments for clarity - v8.5.3
