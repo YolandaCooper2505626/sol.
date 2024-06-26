@@ -417,3 +417,4 @@ Updated README with new instructions
 Fixed typo in documentation - update 20
 Fixed critical bug in main module
 Updated project documentation
+Added detailed comments for clarity - update 13
