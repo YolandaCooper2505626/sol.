@@ -1550,3 +1550,4 @@ Updated project documentation
 Updated styling and themes - v5.7.9
 Updated version number
 Updated styling and themes - v4.7.6
+Updated project documentation - 989
