@@ -1998,3 +1998,4 @@ Fixed memory management issue - update 21
 Fixed memory management issue - v9.7.1
 Updated project documentation
 Added comprehensive test coverage - 991
+Updated README with new instructions - 179
