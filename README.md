@@ -1874,3 +1874,4 @@ Updated version number - update 2
 Fixed typo in documentation
 Updated project documentation - build 513
 Refactored code for better maintainability - 483
+Updated README with new instructions - update 46
