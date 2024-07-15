@@ -980,3 +980,4 @@ Updated dependencies to latest versions - v4.4.9
 Improved performance optimization - build 402
 Refactored code for better maintainability
 Added detailed comments for clarity - 926
+Updated README with new instructions - v8.5.4
