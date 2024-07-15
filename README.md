@@ -983,3 +983,4 @@ Added detailed comments for clarity - 926
 Updated README with new instructions - v8.5.4
 Fixed memory management issue - build 619
 Added new feature for better user experience - build 736
+Fixed typo in documentation - v5.1.1
