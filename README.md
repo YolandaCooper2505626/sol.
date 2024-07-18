@@ -1165,3 +1165,4 @@ Updated configuration settings
 Updated project documentation - update 23
 Updated version number - 20
 Added input validation - 588
+Updated dependencies to latest versions - v6.1.1
