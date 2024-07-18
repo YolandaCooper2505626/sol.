@@ -1164,3 +1164,4 @@ Updated configuration settings - build 619
 Updated configuration settings
 Updated project documentation - update 23
 Updated version number - 20
+Added input validation - 588
