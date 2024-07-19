@@ -3487,3 +3487,4 @@ Added new feature for better user experience - 786
 Fixed typo in documentation - v5.1.0
 Improved performance optimization - v3.5.7
 Code cleanup and formatting
+Updated version number - update 3
