@@ -2233,3 +2233,4 @@ Code cleanup and formatting - v10.6.1
 Fixed critical bug in main module - v2.9.5
 Updated version number
 Fixed code formatting issues - v2.9.2
+Added detailed comments for clarity - update 38
