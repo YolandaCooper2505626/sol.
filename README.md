@@ -3940,3 +3940,4 @@ Code cleanup and formatting - v9.5.6
 Refactored code for better maintainability
 Updated configuration settings - build 157
 Improved performance optimization - update 49
+Updated README with new instructions - build 730
