@@ -3804,3 +3804,4 @@ Added input validation - update 35
 Fixed typo in documentation - v7.5.4
 Code cleanup and formatting - v2.9.9
 Code cleanup and formatting - update 16
+Fixed critical bug in main module - build 240
