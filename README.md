@@ -2175,3 +2175,4 @@ Updated README with new instructions - update 4
 Updated dependencies to latest versions - v6.6.0
 Updated README with new instructions - update 19
 Optimized algorithm for better efficiency - 722
+Added new feature for better user experience
