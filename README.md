@@ -192,3 +192,4 @@ Updated README with new instructions - v3.4.6
 Updated dependencies to latest versions
 Refactored code for better maintainability - update 11
 Updated dependencies to latest versions - build 472
+Fixed critical bug in main module - update 44
