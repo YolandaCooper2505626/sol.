@@ -190,3 +190,4 @@ Updated README with new instructions - update 8
 Optimized algorithm for better efficiency - update 2
 Updated README with new instructions - v3.4.6
 Updated dependencies to latest versions
+Refactored code for better maintainability - update 11
