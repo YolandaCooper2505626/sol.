@@ -195,3 +195,4 @@ Updated dependencies to latest versions - build 472
 Fixed critical bug in main module - update 44
 Fixed critical bug in main module - v8.6.6
 Added new feature for better user experience - build 353
+Added proper error handling - build 181
