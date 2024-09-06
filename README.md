@@ -3719,3 +3719,4 @@ Updated version number - update 19
 Code cleanup and formatting - v1.3.8
 Code cleanup and formatting - update 8
 Added new feature for better user experience - 31
+Code cleanup and formatting - v10.6.1
