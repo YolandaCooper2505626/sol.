@@ -3727,3 +3727,4 @@ Updated version number - update 22
 Updated project documentation
 Fixed code formatting issues - 216
 Updated configuration settings - 545
+Updated README with new instructions
