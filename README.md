@@ -973,3 +973,4 @@ Fixed memory management issue - update 34
 Updated version number - v4.9.7
 Added comprehensive test coverage - 268
 Fixed critical bug in main module - 280
+Updated README with new instructions - build 356
