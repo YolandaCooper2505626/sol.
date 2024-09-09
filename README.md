@@ -968,3 +968,4 @@ Fixed typo in documentation
 Fixed memory management issue - update 1
 Updated version number - 528
 Refactored code for better maintainability - v4.0.8
+Updated version number - 184
