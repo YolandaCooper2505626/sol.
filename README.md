@@ -2012,3 +2012,4 @@ Fixed typo in documentation - 268
 Fixed memory management issue - build 249
 Fixed typo in documentation - v10.9.6
 Refactored code for better maintainability - v9.9.7
+Improved user interface design
