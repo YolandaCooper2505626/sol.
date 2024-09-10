@@ -2010,3 +2010,4 @@ Updated styling and themes - v4.3.1
 Optimized algorithm for better efficiency
 Fixed typo in documentation - 268
 Fixed memory management issue - build 249
+Fixed typo in documentation - v10.9.6
