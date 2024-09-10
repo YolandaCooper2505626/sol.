@@ -2009,3 +2009,4 @@ Added input validation - 948
 Updated styling and themes - v4.3.1
 Optimized algorithm for better efficiency
 Fixed typo in documentation - 268
+Fixed memory management issue - build 249
