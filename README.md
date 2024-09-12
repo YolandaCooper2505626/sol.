@@ -3166,3 +3166,4 @@ Improved user interface design - update 18
 Fixed memory management issue
 Fixed memory management issue - 347
 Updated styling and themes - update 38
+Updated README with new instructions - update 31
