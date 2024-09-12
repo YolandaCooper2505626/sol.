@@ -3158,3 +3158,4 @@ Updated README with new instructions - update 29
 Fixed memory management issue - update 48
 Updated version number - v4.7.2
 Fixed code formatting issues - update 15
+Updated configuration settings - 609
