@@ -108,3 +108,4 @@ Updated version number - 743
 Updated version number - 886
 Fixed typo in documentation
 Updated version number
+Fixed memory management issue - update 5
