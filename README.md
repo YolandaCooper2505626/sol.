@@ -106,3 +106,4 @@ Updated project documentation - build 235
 Updated dependencies to latest versions - v8.4.5
 Updated version number - 743
 Updated version number - 886
+Fixed typo in documentation
