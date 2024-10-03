@@ -1288,3 +1288,4 @@ Refactored code for better maintainability
 Optimized algorithm for better efficiency - 627
 Fixed typo in documentation - build 757
 Updated dependencies to latest versions - update 50
+Added new feature for better user experience - v8.0.8
