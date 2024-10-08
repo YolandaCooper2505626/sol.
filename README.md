@@ -2869,3 +2869,4 @@ Updated styling and themes - 390
 Fixed typo in documentation - v9.9.5
 Optimized algorithm for better efficiency - build 765
 Added new feature for better user experience - 717
+Fixed typo in documentation - update 41
