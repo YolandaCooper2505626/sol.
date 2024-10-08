@@ -2872,3 +2872,4 @@ Added new feature for better user experience - 717
 Fixed typo in documentation - update 41
 Updated configuration settings - v9.7.4
 Updated README with new instructions - v8.6.0
+Updated styling and themes - build 698
