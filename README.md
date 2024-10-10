@@ -2770,3 +2770,4 @@ Updated configuration settings - 652
 Updated dependencies to latest versions - update 38
 Fixed critical bug in main module - v4.4.6
 Improved user interface design - 589
+Updated README with new instructions
