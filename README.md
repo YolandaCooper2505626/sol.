@@ -2799,3 +2799,4 @@ Improved user interface design - v8.0.4
 Improved user interface design
 Added new feature for better user experience
 Improved user interface design
+Updated README with new instructions
