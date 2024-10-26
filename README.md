@@ -2022,3 +2022,4 @@ Fixed critical bug in main module - update 50
 Improved user interface design
 Updated styling and themes
 Updated version number
+Updated README with new instructions - 606
