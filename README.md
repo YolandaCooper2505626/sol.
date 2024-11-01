@@ -1142,3 +1142,4 @@ Code cleanup and formatting - update 27
 Updated README with new instructions
 Code cleanup and formatting - 245
 Added new feature for better user experience - v1.5.3
+Improved user interface design - 219
