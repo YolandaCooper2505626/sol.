@@ -1139,3 +1139,4 @@ Optimized algorithm for better efficiency - build 854
 Added input validation - build 800
 Updated README with new instructions - 263
 Code cleanup and formatting - update 27
+Updated README with new instructions
