@@ -1145,3 +1145,4 @@ Added new feature for better user experience - v1.5.3
 Improved user interface design - 219
 Fixed critical bug in main module - v4.7.4
 Updated configuration settings
+Fixed code formatting issues - v8.1.7
