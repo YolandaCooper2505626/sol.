@@ -238,3 +238,4 @@ Fixed critical bug in main module - v5.7.7
 Fixed critical bug in main module
 Fixed typo in documentation - build 786
 Fixed critical bug in main module - 441
+Refactored code for better maintainability - v6.2.8
