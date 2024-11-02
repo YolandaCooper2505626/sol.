@@ -242,3 +242,4 @@ Refactored code for better maintainability - v6.2.8
 Refactored code for better maintainability
 Code cleanup and formatting - v10.3.2
 Updated README with new instructions - build 253
+Fixed typo in documentation - v6.0.0
