@@ -245,3 +245,4 @@ Updated README with new instructions - build 253
 Fixed typo in documentation - v6.0.0
 Improved performance optimization - v1.9.2
 Updated version number - 157
+Added proper error handling - 387
