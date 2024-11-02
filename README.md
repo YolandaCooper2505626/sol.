@@ -241,3 +241,4 @@ Fixed critical bug in main module - 441
 Refactored code for better maintainability - v6.2.8
 Refactored code for better maintainability
 Code cleanup and formatting - v10.3.2
+Updated README with new instructions - build 253
