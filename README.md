@@ -2141,3 +2141,4 @@ Updated styling and themes - 543
 Added input validation
 Improved performance optimization
 Updated README with new instructions - v6.7.2
+Added detailed comments for clarity
