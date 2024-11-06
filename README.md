@@ -2140,3 +2140,4 @@ Added comprehensive test coverage - update 29
 Updated styling and themes - 543
 Added input validation
 Improved performance optimization
+Updated README with new instructions - v6.7.2
