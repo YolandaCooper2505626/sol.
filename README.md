@@ -2145,3 +2145,4 @@ Added detailed comments for clarity
 Fixed memory management issue
 Updated version number - 93
 Updated dependencies to latest versions - 148
+Updated dependencies to latest versions - v5.2.8
