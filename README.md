@@ -3105,3 +3105,4 @@ Added new feature for better user experience
 Updated version number - v6.2.6
 Fixed code formatting issues - v3.5.5
 Updated styling and themes
+Fixed typo in documentation - build 567
