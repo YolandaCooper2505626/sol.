@@ -474,3 +474,4 @@ Improved user interface design - build 940
 Fixed typo in documentation
 Updated configuration settings - 488
 Fixed typo in documentation - 96
+Fixed memory management issue - build 333
