@@ -475,3 +475,4 @@ Fixed typo in documentation
 Updated configuration settings - 488
 Fixed typo in documentation - 96
 Fixed memory management issue - build 333
+Added detailed comments for clarity - v8.1.1
