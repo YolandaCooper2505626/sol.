@@ -1272,3 +1272,4 @@ Fixed typo in documentation - build 174
 Fixed memory management issue - 98
 Refactored code for better maintainability - v6.6.3
 Updated README with new instructions - v3.1.3
+Updated dependencies to latest versions - 29
