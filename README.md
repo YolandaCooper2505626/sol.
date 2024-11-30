@@ -1270,3 +1270,4 @@ Added new feature for better user experience - 174
 Fixed critical bug in main module - update 48
 Fixed typo in documentation - build 174
 Fixed memory management issue - 98
+Refactored code for better maintainability - v6.6.3
