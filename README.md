@@ -402,3 +402,4 @@ Added new feature for better user experience - build 818
 Updated version number
 Updated project documentation - build 730
 Added detailed comments for clarity - 661
+Code cleanup and formatting - v4.2.1
