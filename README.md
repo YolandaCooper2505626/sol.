@@ -2282,3 +2282,4 @@ Added new feature for better user experience - build 352
 Fixed critical bug in main module - update 30
 Fixed typo in documentation - v1.2.5
 Updated version number - v2.0.3
+Refactored code for better maintainability
