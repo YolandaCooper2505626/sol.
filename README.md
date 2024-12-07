@@ -2962,3 +2962,4 @@ Updated project documentation - v5.4.1
 Code cleanup and formatting - update 18
 Updated project documentation - 174
 Added input validation
+Added detailed comments for clarity
