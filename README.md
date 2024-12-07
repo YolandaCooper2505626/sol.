@@ -2967,3 +2967,4 @@ Refactored code for better maintainability - v3.1.2
 Fixed memory management issue - update 49
 Added new feature for better user experience - build 498
 Added input validation - 524
+Fixed typo in documentation - v4.9.1
