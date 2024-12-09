@@ -95,3 +95,4 @@ Added proper error handling - v2.9.8
 Updated README with new instructions
 Added new feature for better user experience - build 752
 Added detailed comments for clarity - v9.3.3
+Fixed typo in documentation - build 814
