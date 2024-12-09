@@ -91,3 +91,4 @@ Added detailed comments for clarity - 853
 Added input validation - build 916
 Fixed code formatting issues - 423
 Added detailed comments for clarity
+Added proper error handling - v2.9.8
