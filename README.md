@@ -1044,3 +1044,4 @@ Refactored code for better maintainability - update 15
 Updated configuration settings - update 42
 Fixed typo in documentation - update 16
 Refactored code for better maintainability - 436
+Updated README with new instructions - update 18
