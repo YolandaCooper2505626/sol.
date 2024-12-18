@@ -640,3 +640,4 @@ Improved user interface design - v9.8.2
 Added new feature for better user experience
 Fixed typo in documentation - build 513
 Fixed code formatting issues - update 18
+Fixed typo in documentation - 753
