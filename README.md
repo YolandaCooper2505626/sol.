@@ -2686,3 +2686,4 @@ Added input validation - v8.2.4
 Optimized algorithm for better efficiency - 74
 Updated styling and themes - 787
 Fixed code formatting issues
+Added detailed comments for clarity - v3.0.4
