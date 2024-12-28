@@ -186,3 +186,4 @@ Updated version number - v2.3.9
 Fixed code formatting issues - 176
 Fixed critical bug in main module - v10.5.4
 Added comprehensive test coverage - build 649
+Updated README with new instructions - update 8
