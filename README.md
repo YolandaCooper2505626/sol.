@@ -3994,3 +3994,4 @@ Improved performance optimization - build 111
 Updated version number - 631
 Improved user interface design - build 607
 Added new feature for better user experience - build 822
+Updated README with new instructions - build 610
