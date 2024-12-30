@@ -3964,3 +3964,4 @@ Fixed code formatting issues - v4.3.8
 Updated configuration settings
 Refactored code for better maintainability - 806
 Refactored code for better maintainability - build 491
+Added detailed comments for clarity - v7.8.3
