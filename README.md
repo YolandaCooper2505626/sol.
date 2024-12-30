@@ -3965,3 +3965,4 @@ Updated configuration settings
 Refactored code for better maintainability - 806
 Refactored code for better maintainability - build 491
 Added detailed comments for clarity - v7.8.3
+Updated README with new instructions - update 23
