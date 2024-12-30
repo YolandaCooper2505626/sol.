@@ -710,3 +710,4 @@ Added input validation - 601
 Added input validation - update 36
 Added detailed comments for clarity - update 33
 Added proper error handling - v6.0.7
+Optimized algorithm for better efficiency - v1.8.0
