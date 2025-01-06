@@ -480,3 +480,4 @@ Fixed memory management issue - 21
 Improved performance optimization
 Added comprehensive test coverage
 Fixed code formatting issues
+Updated README with new instructions - 598
