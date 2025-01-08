@@ -152,3 +152,4 @@ Updated dependencies to latest versions - update 18
 Optimized algorithm for better efficiency
 Updated dependencies to latest versions
 Code cleanup and formatting
+Added detailed comments for clarity - 66
