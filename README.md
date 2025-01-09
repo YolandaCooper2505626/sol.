@@ -1512,3 +1512,4 @@ Updated README with new instructions - 30
 Fixed typo in documentation - 912
 Fixed memory management issue - build 593
 Fixed typo in documentation
+Fixed critical bug in main module - v2.1.9
