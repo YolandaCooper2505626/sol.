@@ -688,3 +688,4 @@ Added proper error handling - v10.9.1
 Fixed code formatting issues - 241
 Added proper error handling - build 869
 Optimized algorithm for better efficiency
+Fixed critical bug in main module - v2.5.8
