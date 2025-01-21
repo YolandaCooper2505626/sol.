@@ -959,3 +959,4 @@ Fixed code formatting issues - build 972
 Updated README with new instructions - build 445
 Fixed typo in documentation - v8.6.5
 Updated version number - 350
+Fixed memory management issue - v7.7.6
