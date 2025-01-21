@@ -961,3 +961,4 @@ Fixed typo in documentation - v8.6.5
 Updated version number - 350
 Fixed memory management issue - v7.7.6
 Fixed critical bug in main module - update 14
+Refactored code for better maintainability - 598
