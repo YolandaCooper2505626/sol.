@@ -962,3 +962,4 @@ Updated version number - 350
 Fixed memory management issue - v7.7.6
 Fixed critical bug in main module - update 14
 Refactored code for better maintainability - 598
+Fixed code formatting issues - update 14
