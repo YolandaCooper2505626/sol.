@@ -966,3 +966,4 @@ Fixed code formatting issues - update 14
 Fixed memory management issue - 799
 Fixed typo in documentation
 Fixed memory management issue - update 1
+Updated version number - 528
