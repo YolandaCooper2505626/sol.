@@ -1014,3 +1014,4 @@ Fixed memory management issue
 Updated version number - build 967
 Improved user interface design - 836
 Refactored code for better maintainability - update 24
+Added proper error handling - v4.3.6
