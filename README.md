@@ -2534,3 +2534,4 @@ Updated README with new instructions - build 607
 Added input validation - build 425
 Fixed typo in documentation
 Updated version number
+Code cleanup and formatting - v5.2.9
