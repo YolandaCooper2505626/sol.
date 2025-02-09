@@ -2485,3 +2485,4 @@ Updated dependencies to latest versions - v6.7.1
 Added proper error handling - build 868
 Updated dependencies to latest versions - build 534
 Optimized algorithm for better efficiency - 969
+Updated README with new instructions
