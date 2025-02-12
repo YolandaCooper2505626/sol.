@@ -1928,3 +1928,4 @@ Code cleanup and formatting - update 15
 Updated configuration settings
 Added proper error handling - v4.2.3
 Updated styling and themes - update 10
+Updated README with new instructions - 746
