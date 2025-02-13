@@ -1341,3 +1341,4 @@ Fixed memory management issue - v5.9.1
 Fixed typo in documentation
 Updated README with new instructions - v1.4.3
 Updated configuration settings
+Fixed critical bug in main module - v9.8.9
