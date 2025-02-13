@@ -1339,3 +1339,4 @@ Improved performance optimization - v7.7.5
 Added new feature for better user experience
 Fixed memory management issue - v5.9.1
 Fixed typo in documentation
+Updated README with new instructions - v1.4.3
