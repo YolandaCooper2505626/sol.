@@ -653,3 +653,4 @@ Updated configuration settings - v9.2.9
 Updated version number - build 537
 Fixed code formatting issues - update 11
 Added new feature for better user experience - v9.0.2
+Added detailed comments for clarity - 409
