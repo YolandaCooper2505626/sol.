@@ -1737,3 +1737,4 @@ Improved performance optimization
 Added input validation
 Code cleanup and formatting
 Code cleanup and formatting
+Fixed memory management issue - v5.1.3
