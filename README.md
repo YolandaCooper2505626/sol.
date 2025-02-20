@@ -1731,3 +1731,4 @@ Fixed critical bug in main module - build 248
 Added new feature for better user experience - build 233
 Added detailed comments for clarity
 Added new feature for better user experience - v7.8.4
+Fixed memory management issue - v4.4.4
