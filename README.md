@@ -49,3 +49,4 @@ Added new feature for better user experience - 916
 Improved performance optimization - v10.7.9
 Fixed typo in documentation - v3.6.2
 Fixed typo in documentation
+Updated dependencies to latest versions - 904
