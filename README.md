@@ -58,3 +58,4 @@ Updated version number - v6.0.6
 Fixed memory management issue - 441
 Added proper error handling - update 7
 Updated configuration settings
+Added detailed comments for clarity - build 558
