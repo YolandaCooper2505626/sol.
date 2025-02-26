@@ -2376,3 +2376,4 @@ Fixed code formatting issues - 900
 Updated version number - 622
 Updated README with new instructions - build 670
 Added comprehensive test coverage - update 4
+Updated README with new instructions - 97
