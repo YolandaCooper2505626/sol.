@@ -2866,3 +2866,4 @@ Updated project documentation - update 48
 Updated project documentation - update 1
 Added proper error handling - 528
 Updated styling and themes - 390
+Fixed typo in documentation - v9.9.5
