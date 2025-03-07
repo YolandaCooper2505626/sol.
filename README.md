@@ -1816,3 +1816,4 @@ Updated README with new instructions - build 172
 Added new feature for better user experience - v8.3.7
 Updated README with new instructions - 71
 Fixed typo in documentation - v6.0.6
+Fixed critical bug in main module
