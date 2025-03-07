@@ -1817,3 +1817,4 @@ Added new feature for better user experience - v8.3.7
 Updated README with new instructions - 71
 Fixed typo in documentation - v6.0.6
 Fixed critical bug in main module
+Fixed critical bug in main module - v6.7.6
