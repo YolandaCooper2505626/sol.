@@ -1811,3 +1811,4 @@ Fixed code formatting issues - update 40
 Fixed code formatting issues - v3.7.1
 Updated version number - 703
 Updated configuration settings - v10.0.7
+Added detailed comments for clarity - v4.7.9
