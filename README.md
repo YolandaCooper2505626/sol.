@@ -2380,3 +2380,4 @@ Updated README with new instructions - 97
 Refactored code for better maintainability - v8.6.4
 Added proper error handling - v9.8.0
 Added proper error handling - update 31
+Code cleanup and formatting
