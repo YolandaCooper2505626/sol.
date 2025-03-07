@@ -2386,3 +2386,4 @@ Code cleanup and formatting
 Added new feature for better user experience - build 594
 Added new feature for better user experience - 537
 Added input validation - 536
+Updated README with new instructions
