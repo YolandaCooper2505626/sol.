@@ -1845,3 +1845,4 @@ Improved user interface design
 Code cleanup and formatting - build 438
 Added detailed comments for clarity - 860
 Fixed typo in documentation - update 13
+Fixed memory management issue - v10.9.1
