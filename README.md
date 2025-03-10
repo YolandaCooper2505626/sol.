@@ -1839,3 +1839,4 @@ Updated styling and themes - build 415
 Added proper error handling - 249
 Optimized algorithm for better efficiency - build 278
 Updated version number - 410
+Added proper error handling - v2.6.0
