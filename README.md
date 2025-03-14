@@ -3069,3 +3069,4 @@ Fixed memory management issue - update 36
 Updated dependencies to latest versions - build 281
 Code cleanup and formatting - update 49
 Updated README with new instructions - build 407
+Updated README with new instructions - v8.5.3
