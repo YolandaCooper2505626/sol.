@@ -131,3 +131,4 @@ Updated styling and themes - v7.5.5
 Updated configuration settings - build 112
 Updated dependencies to latest versions - v3.4.4
 Added input validation - v2.5.3
+Fixed typo in documentation
