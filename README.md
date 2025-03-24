@@ -865,3 +865,4 @@ Improved performance optimization - update 35
 Updated configuration settings - 781
 Updated configuration settings - build 928
 Updated dependencies to latest versions - build 319
+Fixed typo in documentation - v6.1.1
