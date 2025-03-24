@@ -867,3 +867,4 @@ Updated configuration settings - build 928
 Updated dependencies to latest versions - build 319
 Fixed typo in documentation - v6.1.1
 Updated dependencies to latest versions - v2.5.6
+Refactored code for better maintainability - v7.8.3
