@@ -2334,3 +2334,4 @@ Updated README with new instructions - 859
 Optimized algorithm for better efficiency
 Optimized algorithm for better efficiency - 887
 Updated dependencies to latest versions - v2.3.5
+Updated README with new instructions
