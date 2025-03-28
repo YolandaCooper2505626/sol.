@@ -3031,3 +3031,4 @@ Updated configuration settings
 Fixed typo in documentation - build 926
 Improved performance optimization - 92
 Added new feature for better user experience - build 765
+Added input validation - v2.0.2
