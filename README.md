@@ -1971,3 +1971,4 @@ Added proper error handling
 Fixed typo in documentation
 Updated version number - update 3
 Updated styling and themes - 671
+Added new feature for better user experience - update 32
