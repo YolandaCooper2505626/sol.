@@ -954,3 +954,4 @@ Updated README with new instructions
 Updated styling and themes - update 39
 Updated project documentation - update 8
 Fixed memory management issue - v3.6.7
+Code cleanup and formatting - v8.0.7
