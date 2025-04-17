@@ -3227,3 +3227,4 @@ Fixed memory management issue - 643
 Improved user interface design - 626
 Optimized algorithm for better efficiency - 245
 Updated dependencies to latest versions - build 333
+Updated README with new instructions - v7.8.8
