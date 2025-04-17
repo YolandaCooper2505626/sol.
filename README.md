@@ -948,3 +948,4 @@ Added new feature for better user experience - update 50
 Updated version number - build 622
 Fixed critical bug in main module - update 10
 Fixed code formatting issues - update 18
+Added new feature for better user experience - v7.1.3
