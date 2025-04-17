@@ -956,3 +956,4 @@ Updated project documentation - update 8
 Fixed memory management issue - v3.6.7
 Code cleanup and formatting - v8.0.7
 Fixed code formatting issues - build 972
+Updated README with new instructions - build 445
