@@ -1437,3 +1437,4 @@ Fixed memory management issue - 342
 Fixed typo in documentation - build 872
 Added new feature for better user experience
 Fixed memory management issue - update 47
+Updated version number - build 413
