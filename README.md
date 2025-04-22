@@ -329,3 +329,4 @@ Added new feature for better user experience
 Added proper error handling - update 45
 Added new feature for better user experience
 Fixed typo in documentation - 158
+Fixed memory management issue - v9.8.6
