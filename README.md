@@ -332,3 +332,4 @@ Fixed typo in documentation - 158
 Fixed memory management issue - v9.8.6
 Fixed critical bug in main module - update 2
 Added new feature for better user experience - update 5
+Added proper error handling
