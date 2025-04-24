@@ -935,3 +935,4 @@ Updated configuration settings - build 602
 Updated styling and themes - 47
 Code cleanup and formatting - build 606
 Added new feature for better user experience - update 22
+Code cleanup and formatting - v1.9.1
