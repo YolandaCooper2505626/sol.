@@ -934,3 +934,4 @@ Updated dependencies to latest versions - build 571
 Updated configuration settings - build 602
 Updated styling and themes - 47
 Code cleanup and formatting - build 606
+Added new feature for better user experience - update 22
