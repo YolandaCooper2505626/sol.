@@ -350,3 +350,4 @@ Added new feature for better user experience - build 471
 Fixed critical bug in main module - v8.8.0
 Optimized algorithm for better efficiency
 Updated version number - update 44
+Improved performance optimization - v9.8.7
