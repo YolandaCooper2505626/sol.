@@ -739,3 +739,4 @@ Improved performance optimization - v3.4.8
 Added new feature for better user experience - build 643
 Code cleanup and formatting - build 430
 Updated dependencies to latest versions - build 600
+Added new feature for better user experience - build 701
