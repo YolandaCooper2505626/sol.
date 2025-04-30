@@ -3717,3 +3717,4 @@ Fixed typo in documentation - build 703
 Updated version number
 Updated version number - update 19
 Code cleanup and formatting - v1.3.8
+Code cleanup and formatting - update 8
