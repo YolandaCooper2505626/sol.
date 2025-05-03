@@ -615,3 +615,4 @@ Fixed memory management issue - update 2
 Fixed critical bug in main module
 Added new feature for better user experience
 Updated version number - update 8
+Updated project documentation - v5.1.4
