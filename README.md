@@ -769,3 +769,4 @@ Refactored code for better maintainability - build 470
 Updated dependencies to latest versions - update 26
 Updated README with new instructions - update 6
 Updated version number - update 43
+Code cleanup and formatting - 458
