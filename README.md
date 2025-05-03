@@ -609,3 +609,4 @@ Fixed critical bug in main module - update 38
 Updated project documentation - v8.7.0
 Updated styling and themes - update 30
 Code cleanup and formatting - v7.3.9
+Added detailed comments for clarity - update 47
