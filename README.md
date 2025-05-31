@@ -497,3 +497,4 @@ Added proper error handling - build 830
 Updated dependencies to latest versions - v3.1.2
 Updated dependencies to latest versions - build 972
 Updated README with new instructions - v9.6.7
+Fixed critical bug in main module - build 552
