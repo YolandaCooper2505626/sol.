@@ -1895,3 +1895,4 @@ Updated version number - v5.5.4
 Optimized algorithm for better efficiency - 784
 Updated styling and themes - 393
 Fixed code formatting issues - 954
+Fixed typo in documentation
