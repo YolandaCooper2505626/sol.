@@ -1897,3 +1897,4 @@ Updated styling and themes - 393
 Fixed code formatting issues - 954
 Fixed typo in documentation
 Code cleanup and formatting - 346
+Fixed memory management issue
