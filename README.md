@@ -2570,3 +2570,4 @@ Added new feature for better user experience - build 964
 Updated README with new instructions - v8.0.9
 Fixed code formatting issues - build 992
 Improved user interface design - 87
+Updated configuration settings - build 686
