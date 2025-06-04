@@ -2066,3 +2066,4 @@ Optimized algorithm for better efficiency - v10.2.2
 Fixed code formatting issues
 Updated dependencies to latest versions - 592
 Fixed memory management issue
+Fixed typo in documentation - v3.3.2
