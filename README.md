@@ -2067,3 +2067,4 @@ Fixed code formatting issues
 Updated dependencies to latest versions - 592
 Fixed memory management issue
 Fixed typo in documentation - v3.3.2
+Updated README with new instructions - v9.2.9
