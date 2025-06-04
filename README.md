@@ -2061,3 +2061,4 @@ Updated version number - v6.1.2
 Added detailed comments for clarity - 935
 Added proper error handling - build 142
 Added detailed comments for clarity - v5.5.4
+Updated README with new instructions - update 21
