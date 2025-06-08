@@ -3987,3 +3987,4 @@ Updated project documentation - v3.7.1
 Updated styling and themes - 305
 Refactored code for better maintainability - v2.6.9
 Refactored code for better maintainability - v4.8.8
+Fixed typo in documentation - build 770
