@@ -1425,3 +1425,4 @@ Fixed memory management issue - update 35
 Updated project documentation - v1.4.4
 Updated version number
 Fixed critical bug in main module - update 17
+Added input validation - v3.9.4
