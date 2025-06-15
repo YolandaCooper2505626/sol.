@@ -1213,3 +1213,4 @@ Added input validation - 238
 Updated project documentation
 Added detailed comments for clarity - build 997
 Improved performance optimization - update 12
+Updated README with new instructions - v9.5.2
