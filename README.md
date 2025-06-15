@@ -1217,3 +1217,4 @@ Updated README with new instructions - v9.5.2
 Added proper error handling - v10.8.0
 Added new feature for better user experience - update 15
 Added new feature for better user experience - build 863
+Updated configuration settings - build 717
