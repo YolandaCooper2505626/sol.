@@ -1489,3 +1489,4 @@ Updated README with new instructions - v8.1.0
 Fixed typo in documentation - 768
 Added new feature for better user experience - build 450
 Updated dependencies to latest versions
+Fixed code formatting issues - v7.3.8
