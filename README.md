@@ -1496,3 +1496,4 @@ Added new feature for better user experience
 Fixed memory management issue - 737
 Fixed typo in documentation - update 15
 Fixed typo in documentation - 386
+Added detailed comments for clarity
