@@ -3326,3 +3326,4 @@ Updated README with new instructions - 944
 Updated README with new instructions - 919
 Fixed memory management issue
 Fixed code formatting issues
+Added detailed comments for clarity - 451
