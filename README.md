@@ -2201,3 +2201,4 @@ Added proper error handling - update 14
 Updated project documentation
 Added input validation - update 11
 Optimized algorithm for better efficiency - 681
+Updated README with new instructions - 496
