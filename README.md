@@ -51,3 +51,4 @@ Code cleanup and formatting - update 34
 Updated project documentation
 Updated styling and themes - update 46
 Added input validation
+Fixed typo in documentation
