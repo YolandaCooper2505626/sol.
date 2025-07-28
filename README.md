@@ -72,3 +72,4 @@ Fixed typo in documentation - v1.1.3
 Updated styling and themes - build 623
 Refactored code for better maintainability - update 41
 Fixed memory management issue - 214
+Fixed memory management issue - update 50
