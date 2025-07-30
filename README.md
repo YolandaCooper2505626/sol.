@@ -17,3 +17,4 @@ Updated project documentation
 Updated styling and themes
 Refactored code for better maintainability - build 750
 Improved performance optimization - build 807
+Fixed code formatting issues - v3.6.6
