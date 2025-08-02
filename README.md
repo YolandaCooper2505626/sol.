@@ -1412,3 +1412,4 @@ Updated version number - v3.1.1
 Fixed memory management issue - build 210
 Updated project documentation - 406
 Refactored code for better maintainability - build 491
+Added new feature for better user experience - v8.8.8
