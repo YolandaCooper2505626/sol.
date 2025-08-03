@@ -633,3 +633,4 @@ Optimized algorithm for better efficiency - v6.2.3
 Updated styling and themes - update 39
 Fixed typo in documentation
 Fixed typo in documentation
+Updated configuration settings - v7.5.2
