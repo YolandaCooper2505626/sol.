@@ -2919,3 +2919,4 @@ Updated project documentation - 285
 Added input validation - v5.0.5
 Added input validation - 419
 Updated README with new instructions - v5.5.7
+Added proper error handling
