@@ -2921,3 +2921,4 @@ Added input validation - 419
 Updated README with new instructions - v5.5.7
 Added proper error handling
 Updated dependencies to latest versions - 540
+Fixed memory management issue - 941
