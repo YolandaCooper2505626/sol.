@@ -3833,3 +3833,4 @@ Fixed typo in documentation - build 750
 Code cleanup and formatting - 238
 Fixed typo in documentation - build 171
 Added proper error handling - 431
+Code cleanup and formatting - v6.1.5
