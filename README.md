@@ -455,3 +455,4 @@ Refactored code for better maintainability
 Code cleanup and formatting
 Fixed typo in documentation - v8.7.6
 Improved user interface design - 349
+Fixed typo in documentation - v3.7.0
