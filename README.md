@@ -457,3 +457,4 @@ Fixed typo in documentation - v8.7.6
 Improved user interface design - 349
 Fixed typo in documentation - v3.7.0
 Optimized algorithm for better efficiency - 10
+Updated README with new instructions - build 427
