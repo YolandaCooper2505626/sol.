@@ -1098,3 +1098,4 @@ Added input validation - v6.3.7
 Added comprehensive test coverage - v8.6.1
 Updated dependencies to latest versions - update 38
 Added proper error handling - build 699
+Updated README with new instructions - build 139
