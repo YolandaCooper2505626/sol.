@@ -1105,3 +1105,4 @@ Fixed typo in documentation - v8.0.5
 Updated project documentation
 Updated README with new instructions
 Updated configuration settings - update 23
+Updated dependencies to latest versions - update 31
