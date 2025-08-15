@@ -391,3 +391,4 @@ Fixed typo in documentation - 873
 Refactored code for better maintainability
 Updated dependencies to latest versions - build 958
 Updated project documentation - v8.2.4
+Fixed critical bug in main module - build 289
