@@ -2839,3 +2839,4 @@ Fixed memory management issue - v6.1.1
 Optimized algorithm for better efficiency
 Refactored code for better maintainability - build 523
 Optimized algorithm for better efficiency - 484
+Fixed memory management issue - update 24
