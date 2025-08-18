@@ -3498,3 +3498,4 @@ Added proper error handling
 Updated README with new instructions - update 40
 Code cleanup and formatting
 Added input validation - update 22
+Updated README with new instructions - v3.7.5
