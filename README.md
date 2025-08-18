@@ -3506,3 +3506,4 @@ Code cleanup and formatting
 Refactored code for better maintainability - 416
 Updated dependencies to latest versions - build 571
 Updated configuration settings - update 18
+Updated README with new instructions - v3.8.4
