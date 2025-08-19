@@ -38,3 +38,4 @@ Added input validation - v2.4.8
 Code cleanup and formatting - build 352
 Fixed code formatting issues - v6.5.4
 Fixed code formatting issues - build 163
+Fixed typo in documentation - update 13
