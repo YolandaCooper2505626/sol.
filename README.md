@@ -2823,3 +2823,4 @@ Fixed critical bug in main module - 561
 Updated styling and themes - 619
 Optimized algorithm for better efficiency
 Updated version number - build 946
+Added detailed comments for clarity
