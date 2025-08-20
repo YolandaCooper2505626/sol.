@@ -2827,3 +2827,4 @@ Added detailed comments for clarity
 Updated dependencies to latest versions - 953
 Fixed memory management issue - 469
 Updated dependencies to latest versions
+Updated styling and themes - v1.2.6
