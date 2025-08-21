@@ -1564,3 +1564,4 @@ Added input validation
 Updated styling and themes - update 36
 Fixed memory management issue - 5
 Optimized algorithm for better efficiency - build 352
+Updated README with new instructions - build 134
