@@ -1198,3 +1198,4 @@ Improved user interface design
 Added input validation - build 242
 Refactored code for better maintainability - 55
 Added input validation - v9.8.7
+Updated README with new instructions - update 21
