@@ -1202,3 +1202,4 @@ Updated README with new instructions - update 21
 Updated README with new instructions - v7.0.6
 Improved user interface design - update 25
 Updated project documentation
+Updated configuration settings
