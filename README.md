@@ -1203,3 +1203,4 @@ Updated README with new instructions - v7.0.6
 Improved user interface design - update 25
 Updated project documentation
 Updated configuration settings
+Fixed typo in documentation - v8.1.7
