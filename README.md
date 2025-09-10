@@ -1005,3 +1005,4 @@ Added new feature for better user experience
 Added new feature for better user experience - build 795
 Added input validation
 Improved user interface design - 862
+Improved user interface design - build 831
