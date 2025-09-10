@@ -998,3 +998,4 @@ Added proper error handling - v1.7.7
 Code cleanup and formatting - v3.1.5
 Updated dependencies to latest versions - update 21
 Added input validation - 311
+Fixed critical bug in main module - v7.5.1
