@@ -1848,3 +1848,4 @@ Fixed typo in documentation - update 13
 Fixed memory management issue - v10.9.1
 Updated version number - v1.3.2
 Code cleanup and formatting - build 538
+Updated project documentation - update 39
