@@ -2672,3 +2672,4 @@ Code cleanup and formatting - update 19
 Added proper error handling - v10.2.0
 Added new feature for better user experience - build 899
 Added proper error handling - build 703
+Updated README with new instructions - update 21
