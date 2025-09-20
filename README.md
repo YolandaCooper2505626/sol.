@@ -322,3 +322,4 @@ Fixed typo in documentation - 779
 Added input validation - v8.8.6
 Updated styling and themes - update 13
 Refactored code for better maintainability
+Fixed code formatting issues
