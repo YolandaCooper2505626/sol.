@@ -1738,3 +1738,4 @@ Added input validation
 Code cleanup and formatting
 Code cleanup and formatting
 Fixed memory management issue - v5.1.3
+Added proper error handling - build 351
