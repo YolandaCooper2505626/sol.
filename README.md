@@ -1254,3 +1254,4 @@ Updated configuration settings - v2.8.7
 Improved performance optimization - 831
 Updated configuration settings - v4.3.2
 Improved performance optimization - build 771
+Fixed typo in documentation - 190
