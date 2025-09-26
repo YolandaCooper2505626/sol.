@@ -1256,3 +1256,4 @@ Updated configuration settings - v4.3.2
 Improved performance optimization - build 771
 Fixed typo in documentation - 190
 Updated README with new instructions - build 735
+Fixed memory management issue - update 1
