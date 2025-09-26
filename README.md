@@ -783,3 +783,4 @@ Added proper error handling - v3.7.0
 Code cleanup and formatting - 519
 Updated version number - update 28
 Updated version number - build 288
+Added new feature for better user experience - update 27
