@@ -595,3 +595,4 @@ Fixed critical bug in main module - v3.1.2
 Fixed typo in documentation - build 479
 Fixed critical bug in main module - build 734
 Added new feature for better user experience - v8.8.2
+Added proper error handling - 856
